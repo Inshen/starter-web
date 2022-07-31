@@ -3,6 +3,7 @@
 This is a simple websie project for showing how to use Git and Github together.
 ADding line dsfsdfsdfsdf 
 REBASING EXMPLE
+xD mmore changes from myfeature branch
 
 ## Instroduction
 
